@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Cjoise (you can call me Iliya)
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning JHU's HTTP, CSS, JS
+- 👋 Hi, I’m @Cjoise (you can call me Ilia)
+- 👀 I’m interested in full stack and Python3
 
 <!---
 Cjoise/Cjoise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
