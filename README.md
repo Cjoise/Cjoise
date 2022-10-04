@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cjoise (you can call me Ilia)
-- 👀 I’m interested in full stack and Python3
+My name's Ilia and it sounds like Eelyah. 
+I’m interested in full stack development.
 
 <!---
 Cjoise/Cjoise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
