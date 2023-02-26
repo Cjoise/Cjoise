@@ -1,5 +1,5 @@
 My name's Ilia and it sounds like Eelyah. 
-I’m interested in full stack development.
+I’m interested in ML.
 
 <!---
 Cjoise/Cjoise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
